@@ -1,0 +1,39 @@
+
+
+.my-girija{
+    font: 50px red Arial bold !important;
+    padding: 20px;
+    padding-top: 100px;
+    line-height: 50px;
+
+    text-align: center;
+    margin: 40px;
+
+}
+
+#gov{
+    color: blue;
+    background-color: red;
+}
+
+div{
+    background-color: #cccc;
+    border: 1px solid red;
+    color: green;
+    font-size: 24px;
+}
+
+p{
+    background-color: #cccc;
+    border: 1px solid green;
+}
+
+
+#name{
+    font-size: 18px;
+}
+
+.my-class{
+    background-color: blue;
+}
+

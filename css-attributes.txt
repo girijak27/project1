@@ -1,0 +1,159 @@
+CSS Attributes/Properties
+
+
+font
+======
+
+font-familiy: Arial;
+font-size: 12px; 
+color: #552266;
+
+font-weight: bold;  bold/normal/regular/100/200/300/400/500
+font-style: italic; italic/underline/strick
+
+
+font: Arial 12px #666 italic bold;
+
+line-height
+===========
+
+line-height: 
+
+
+background
+==========
+
+background-color: red;
+background-image: url('./logo.png');
+background-poisiton: top left;
+background-repeat: repeat;  repeat/repeat-x/repeat-y/no-repeat;
+background-size: 
+background-attachment: 
+
+background: red url('./logo.png') 12px 20px repeat-x;
+
+
+padding
+=======
+
+Clock-wise 
+
+padding-top: 10px;
+padding-right: 10px;
+padding-bottom: 10px;
+padding-left: 10px;
+
+padding: 10px 10px 3px 5px;
+padding: 10px 5px 3px;
+padding: 5px 10px;  top/bottom right/left
+padding: 5px;
+
+
+margin
+======
+
+clock-wise
+
+margin-top: 10px;
+margin-right: 10px;
+margin-bottom: 10px;
+margin-left: 10px;
+
+margin: 10px 10px 3px 5px;
+margin: 10px 5px 3px;
+margin: 5px 10px;  top/bottom right/left
+margin: 5px;
+
+
+text alignment
+==============
+
+text-align: left; left/right/center/justify;
+vertical-align: top; top/middle/bottom;
+
+
+float:
+=====
+
+float: left; left/right;
+
+
+position
+========
+
+position: relative; static/relative/obsolute/fixed
+
+
+z-index
+========
+
+z-index: 10;
+
+top: 100px;
+left: 100px;
+
+right: 100px;
+bottom: 100px;
+
+border
+======
+
+border: 1px orange solid;
+
+border-radius
+=============
+
+border-radius: 10px;
+
+border-top-left-radius: 3px;
+border-top-right-radius: 3px;
+border-bottom-left-radius: 3px;
+border-left-right-radius: 3px;
+
+border-raidus: 10px;
+border-raidus: 10px 5px;
+border-raidus: 10px 3px 4px;
+border-raidus: 10px 5px 4px 8px;
+
+* Display
+=========
+
+display: none; none/block/inline/inline-block
+
+
+div - by default it block type Element  - 
+
+span - by defalut it is inline type element
+
+img - by default it is inline-block
+
+visibility
+==========
+
+visibility: hidden;
+
+
+Width/Height
+========
+
+height: 100px;
+width: 100px;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

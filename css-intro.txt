@@ -1,0 +1,36 @@
+
+Three types of styles:
+
+
+inline css/styles
+
+
+<div style="background-color: #666; font-size: 12px"></div>
+
+internal css/styles
+
+
+<style>
+.my-class{
+
+    background-color: #666;
+    font-size: 12px;
+}
+</style>
+
+
+external css/styles
+
+<link href="styles.css" rel="stylesheet"> 
+
+
+Selectors:
+
+.  ---- class
+#  ----- Id
+div, p, ul li h1 etc. ----- html tags
+
+: pesudo class
+
+
+
