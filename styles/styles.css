@@ -1,0 +1,94 @@
+
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.top-bar{
+    background-color: #999;
+    color: #ccc;
+    padding: 10px 100px;
+}
+
+.left-section{
+    display: inline-block;
+
+}
+.right-section{
+    display: inline-block;
+    float:right;
+}
+
+.header{
+    padding: 10px 100px;
+    height: 100px;
+}
+
+.logo-section{
+    display: inline-block;
+}
+
+#nav-section{
+    display: inline-block;
+    float: right;
+    padding: 40px 0;
+}
+
+ul.nav-list {
+    margin: 0;
+}
+
+ul.nav-list li {
+    display: inline;
+}
+
+ul.nav-list li a {
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+    margin: 10px 15px;
+    text-transform: uppercase;
+    cursor:pointer;
+}
+
+
+
+
+/* .my-girija{
+    font: 50px red Arial bold !important;
+    padding: 20px;
+    padding-top: 100px;
+    line-height: 50px;
+
+    text-align: center;
+    margin: 40px;
+
+}
+
+#gov{
+    color: blue;
+    background-color: red;
+}
+
+div{
+    background-color: #cccc;
+    border: 1px solid red;
+    color: green;
+    font-size: 24px;
+}
+
+p{
+    background-color: #cccc;
+    border: 1px solid green;
+}
+
+
+#name{
+    font-size: 18px;
+}
+
+.my-class{
+    background-color: blue;
+}
+ */
