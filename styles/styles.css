@@ -96,9 +96,145 @@ ul.nav-list li a {
 
 }
 
+.text
 
+{
+    padding-top: 30px ;
+  
+}
+.text-color1
+{
+    margin: 10px;
+    font-family: Arial; 
+    color: blue;
+}
 
-/* .my-girija{
+.text-color2
+{
+    margin: 10px;
+    font-family: Arial; 
+    color:green;
+} 
+
+.text-color3
+{
+    margin: 10px;
+    font-family: Arial; 
+    color: red;
+}
+.text-color4
+{
+    margin: 10px;
+    font-family: Arial; 
+    color: darkblue;
+}
+.text-color5
+{
+    margin: 10px;
+    font-family: Arial; 
+    color:lightgreen;
+}
+.text-color6
+{
+    margin: 10px;
+    font-family: Arial; 
+    color: black;
+}
+.page
+{
+    margin: 0 100px;
+    padding: 32px 36px;
+    height: 650px;
+    display: inline-block;
+}
+.left-group
+    {
+        display: inline-block;
+        width: 100px;
+}
+.center-group
+{
+    display: inline-block;
+    width: 400px;
+    background-color: #2476E6;
+}
+.h1-font
+{
+    font-family: Arial; 
+    color: white;
+    margin: 30px;
+}
+.h2-font
+{
+    font-size: 14px;
+    font-family: Arial; 
+    color: white;
+    margin: 30px;
+}
+.h3-font
+{
+    font-size: 12px;
+    font-family: Arial; 
+    color: white;
+    margin: 30px;
+}
+.right-group
+{
+    display: inline-block;
+    padding: 40px;
+    width: 400px;
+}
+.right-gp1
+{
+    font-family: Arial;
+    font-size: 25px;
+    color: blue;
+}
+.right-gp2
+{
+    font-family: Arial;
+    font-size: 25px;
+    color: black;
+    }
+  
+.right-gp3
+    {
+        font-family: Arial;
+        font-size: 15px;
+        color: black;
+        }
+    
+    .img-div
+    {
+        display: inline-block;
+        margin: 50px 50px 50px 125px;
+        box-shadow: 0 3px 3px 3px #ccc;        
+        padding: 32px 36px;
+        width: 900px;
+   }
+   .img-section
+   {
+    display: inline-block;
+    width: 200px;
+    height: 150px;
+    margin: 20px 20px 20px 50px;
+    text-align: center;
+    background-color: #fff;
+   
+   }
+   .img-div-p
+   {
+       display: inline-block;
+       margin: 10px 10px 10px 20px;
+       font-weight: bold;
+       font-family: Arial 16px;       
+
+   }
+   
+   
+   
+   
+   /* .my-girija{
     font: 50px red Arial bold !important;
     padding: 20px;
     padding-top: 100px;
