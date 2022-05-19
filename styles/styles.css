@@ -144,19 +144,24 @@ ul.nav-list li a {
 {
     margin: 0 100px;
     padding: 32px 36px;
-    height: 650px;
     display: inline-block;
 }
 .left-group
     {
         display: inline-block;
         width: 100px;
+        
+}
+.left-imgs{
+        margin: 50px 10px 50px 10px;
+
 }
 .center-group
 {
     display: inline-block;
     width: 400px;
     background-color: #2476E6;
+    
 }
 .h1-font
 {
@@ -183,16 +188,19 @@ ul.nav-list li a {
     display: inline-block;
     padding: 40px;
     width: 400px;
+    
 }
 .right-gp1
 {
     font-family: Arial;
     font-size: 25px;
-    color: blue;
+    font-weight: bold;
+    color: rgb(40, 133, 161);
 }
 .right-gp2
 {
     font-family: Arial;
+    font-weight: bold;
     font-size: 25px;
     color: black;
     }
