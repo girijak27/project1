@@ -82,7 +82,7 @@ ul.nav-list li a {
   margin: 0;
   box-shadow: 1px 1px 2px 2px #ccc;
   border: none;
-}
+} 
 
 .search-group button {
   width: 200px;
@@ -92,6 +92,16 @@ ul.nav-list li a {
   margin: 0;
   border: 0;
 }
+
+.get-started button {
+  width: 250px;
+  height: 55px;
+  background-color: #2476e6;
+  color: #fff;
+  margin: 0;
+  border: 0;
+}
+
 
 .text {
   padding-top: 30px;
@@ -126,8 +136,7 @@ ul.nav-list li a {
 .text-color6 {
   margin: 10px;
   font-family: Arial;
-  color: black;
-}
+  color: black;}
 .page {
   margin: 0 100px;
   padding: 32px 36px;
@@ -138,6 +147,7 @@ ul.nav-list li a {
   width: 8%;
   vertical-align: top;
   height: 100%;
+ 
 }
 .center-group {
   display: inline-grid;
@@ -147,7 +157,7 @@ ul.nav-list li a {
   height: 100% !important;
 }
 .left-imgs {
-  margin: 50px 10px 50px 10px;
+  margin: 80px 10px 0 20px;
 }
 
 .right-group {
@@ -166,30 +176,30 @@ ul.nav-list li a {
   font-size: 14px;
   font-family: Arial;
   color: white;
-  margin: 30px;
+  margin: 20px;
 }
 .h3-font {
   font-size: 12px;
   font-family: Arial;
   color: white;
-  margin: 30px;
+  margin: 20px;
 }
 
 .right-gp1 {
-  font-family: Arial;
+  font-family: 'Courier New', Courier, monospace;
   font-size: 25px;
   font-weight: bold;
-  color: rgb(40, 133, 161);
+  color: blue;
 }
 .right-gp2 {
-  font-family: Arial;
+  font-family: 'Courier New', Courier, monospace;
   font-weight: bold;
   font-size: 25px;
   color: black;
 }
 
 .right-gp3 {
-  font-family: Arial;
+  font-family: 'Courier New', Courier, monospace;
   font-size: 15px;
   color: black;
 }
@@ -206,6 +216,8 @@ ul.nav-list li a {
   height: 150px;
   text-align: center;
   background-color: #fff;
+  box-shadow: 2px 0 0 0 #ccc;
+  border: none;
 }
 .img-div-p {
     text-align: center;
@@ -220,27 +232,85 @@ ul.nav-list li a {
 }
 
 .row{
-    margin: 10px 100px;
+  display: block;  
+  margin: 10px 50px;
+  background: url("../images/bg-color.png") repeat ;
+    
 }
+
+
 
 .col1 {
     display: inline-block;
+    margin: 10px 12px;
+    vertical-align: top;
 }
-
+ 
 .col2{
     display: inline-block;
+    margin: 1opx 2px;
 }
+
+.img-tick
+{
+  display: inline-block;
+  margin: 0 1px;
+
+}
+.img-tick-p
+{
+  display: inline-block;
+  text-align:justify;
+  margin-right: 30px;
+}
+
 
 .col3{
     display: inline-block;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+}
+
+.row1{
+  display: block;  
+  margin: 10px 50px;
+  
+  text-align: center;
+}
+
+.row2{
+  display: block;  
+  padding: 0 220px;
+
+}
+
+.col5{
+  padding: 0 20px;
+  display: inline-block;
+  box-shadow: 2px 0 2px 2px lightgrey;
+  
 }
 
 .col4{
-    display: inline-block;
+display:grid;
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 12px;
+ text-align: center;
+ padding: 20px;
+ 
 }
 
+.col6{
+  display:grid;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 12px;
+   
+   
+  }
+
 .w-50{
-    width: 49%;
+    width: 48%;
 }
 
 .w-33{
